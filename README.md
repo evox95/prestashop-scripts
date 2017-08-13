@@ -1,5 +1,3 @@
-# Prestashop - copy product translations
+# Prestashop - scripts
 
-Simple script to copy product translations from one lang to others.
-
-Edit data in `CONFIGURATION` zone and run it in browser or via command line.
+Simple scripts to use with Prestashop (https://www.prestashop.com)
