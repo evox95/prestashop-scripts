@@ -4,10 +4,10 @@
  *	Simple script to copy product translations from one lang to others.
  *
  *	Place this file in PrestaShop root dir (next to the 'index.php' file),
- *		configure below and open by browser.
+ *	configure below and open by browser.
  *
- *  @author Mateusz Bartocha
- *	@email	contact@bestcoding.net
+ *	@author Mateusz Bartocha
+ * 	@email	contact@bestcoding.net
  *	@www	https://bestcoding.net
  */
 
